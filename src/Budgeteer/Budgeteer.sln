@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budgeteer.AppHost", "Budgeteer.AppHost\Budgeteer.AppHost.csproj", "{A8724FF3-35A2-451C-9C29-0289B304833B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budgeteer.ServiceDefaults", "Budgeteer.ServiceDefaults\Budgeteer.ServiceDefaults.csproj", "{8C7CA887-13E7-4FFF-8996-A092AD910725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budgeteer.ApiService", "Budgeteer.ApiService\Budgeteer.ApiService.csproj", "{191D2F7E-975B-494A-8850-0E0259AF6152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8724FF3-35A2-451C-9C29-0289B304833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8724FF3-35A2-451C-9C29-0289B304833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8724FF3-35A2-451C-9C29-0289B304833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8724FF3-35A2-451C-9C29-0289B304833B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7CA887-13E7-4FFF-8996-A092AD910725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7CA887-13E7-4FFF-8996-A092AD910725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7CA887-13E7-4FFF-8996-A092AD910725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7CA887-13E7-4FFF-8996-A092AD910725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191D2F7E-975B-494A-8850-0E0259AF6152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191D2F7E-975B-494A-8850-0E0259AF6152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191D2F7E-975B-494A-8850-0E0259AF6152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191D2F7E-975B-494A-8850-0E0259AF6152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
